@@ -1,0 +1,73 @@
+.backgroun_color{
+    background-color: black;
+    height: 450px;
+    width: 100%;
+    padding-top: 5%;
+}
+
+hr{
+    color: white;
+}
+
+.a 
+{
+    display: inline-block;
+    margin-right: 10px;
+}
+  
+.i{
+    font-size: 120%;
+    text-align: center;
+    font-weight: bold;
+    font-family: sans-serif;
+}
+  
+.button {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    background: none;
+    border: none;
+    cursor: pointer;
+    font-size: 24px;
+}
+  
+.icon3{
+    font-size: 20px;
+    text-align: center;
+    color: white;
+    padding-top: 7%;
+}
+
+.icon4{
+    font-size: 20px;
+    color: white;
+}
+
+.textnight{
+    text-align: center;
+    font-weight: bold;
+    font-style: var();
+    color: white;
+    font-family: sans-serif;
+}
+  
+.form-control{
+    border-color: black;
+}
+
+.whaticon{
+    color: green;
+    font-size: 200%;
+    margin-left: 80%;
+}
+
+.faceicon{
+    color: blue;
+    font-size: 200%;
+}
+
+.instaicon{
+    color: red;
+    font-size: 200%;
+}

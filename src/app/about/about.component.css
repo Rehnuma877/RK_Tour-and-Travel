@@ -1,0 +1,30 @@
+h1{
+    font-weight: bold; 
+    text-align: center;
+    font-size: 30px;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    font-family: sans-serif;
+}
+
+h2{  
+    font-weight: bold; 
+    font-family: sans-serif;
+}
+
+h3{
+    text-align: justify;
+    font-family: sans-serif;
+}
+
+img{
+    border-radius: 20%;
+    width: 100%;
+    height: 100%;
+}
+
+.about_context{
+    background-color: gray;
+    border-radius: 12px;
+    box-shadow: 5%;
+}
